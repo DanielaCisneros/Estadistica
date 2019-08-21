@@ -1,3 +1,5 @@
+#se importo mas librerias para los graficos 
+ 
 import numpy as np
 import matplotlib.pyplot as plt
 
